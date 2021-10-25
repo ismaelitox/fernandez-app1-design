@@ -1,4 +1,0 @@
-baseline/ApplicationController.java
- baseline.ApplicationController
-baseline/Application.java
- baseline.Application
