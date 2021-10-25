@@ -67,11 +67,11 @@ goto fail
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\Jonahs-ToDoApp-1.0-SNAPSHOT.jar;%APP_HOME%\lib\javafx-fxml-16-mac.jar;%APP_HOME%\lib\javafx-controls-16-mac.jar;%APP_HOME%\lib\javafx-controls-16.jar;%APP_HOME%\lib\javafx-graphics-16-mac.jar;%APP_HOME%\lib\javafx-graphics-16.jar;%APP_HOME%\lib\javafx-base-16-mac.jar;%APP_HOME%\lib\javafx-base-16.jar
+set CLASSPATH=%APP_HOME%\lib\Jonahs-ToDoApp-1.0-SNAPSHOT.jar;%APP_HOME%\lib\javafx-fxml-17-mac.jar;%APP_HOME%\lib\javafx-controls-17-mac.jar;%APP_HOME%\lib\javafx-controls-17.jar;%APP_HOME%\lib\javafx-graphics-17-mac.jar;%APP_HOME%\lib\javafx-graphics-17.jar;%APP_HOME%\lib\javafx-base-17-mac.jar;%APP_HOME%\lib\javafx-base-17.jar
 
 
 @rem Execute Jonahs-ToDoApp
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %JONAHS_TO_DO_APP_OPTS%  -classpath "%CLASSPATH%" baseline.MainApp %*
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %JONAHS_TO_DO_APP_OPTS%  -classpath "%CLASSPATH%" baseline.Application %*
 
 :end
 @rem End local scope for the variables with windows NT shell

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baseline.ApplicationControllerTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-10-25T03:11:49" hostname="Jonahs-MacBook-Air.local" time="0.062">
+  <properties/>
+  <testcase name="showAllTasksClicked()" classname="baseline.ApplicationControllerTest" time="0.028"/>
+  <testcase name="editTasksClicked()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="showCompleteTskClicked()" classname="baseline.ApplicationControllerTest" time="0.002"/>
+  <testcase name="loadTasksClicked()" classname="baseline.ApplicationControllerTest" time="0.002"/>
+  <testcase name="inputItemDescription()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="showIncompleteTasks()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="editDateClicked()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="getAddDate()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="getAddTask()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="showDateClicked()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="removeTaskClicked()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="inputItemString()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="newTasksCreate()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="setAddDate()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <testcase name="setAddTask()" classname="baseline.ApplicationControllerTest" time="0.002"/>
+  <testcase name="saveCurrentTask()" classname="baseline.ApplicationControllerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
